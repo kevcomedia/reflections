@@ -25,6 +25,10 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+  The diagrams helped visualize git branches. It offered a more intuitive way of
+  thinking about branches, since it's easy to see commit histories branching
+  out.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
