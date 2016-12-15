@@ -44,4 +44,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I'd want to make changes in a separate branch when I'm working on a new
+    feature, or fix an existing bug, or reformat the code. One advantage it has
+    is that our changes are isolated from the working master branch (which is
+    expected to behave as expected). Then out changes are reviewed, then merged
+    into the master branch when it's safe to do so, or add more follow-up
+    commits, all while maintaining the purity of the master branch.
